@@ -1,0 +1,10 @@
+Car	990001	Toyota Avalon	100
+Car	990002	MAZDA MX-5 Miata	100
+Car	990000	Ford Maverick	120
+Van	980001	GMC Safari	130
+Van	980002	Lancia Voyager	120
+Van	970006	Alfa Romeo AR6	130
+Van	970005	Jeep Grand Cherokee	150
+Motorcycle	900009	BMW R1150R Boxer Naked Roadster Cinza ABS	195
+Motorcycle	900010	Harley-Davidson Pan America 1250	205
+Motorcycle	990001	Ducati DesertX	185

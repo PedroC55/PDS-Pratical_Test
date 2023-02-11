@@ -1,0 +1,23 @@
+/mnt/c/Users/Utilizador/Desktop/Universidade/2ºano/2ºSemestre/PDS/104247
+2022/06/22 14:12:28
+
+Question 1) ----------------------------------
+
+--- All Products ---
+Total: 4
+	Car [ code=ZA11ZB, descr=Tesla, Grey, 2021, points=100.0]
+	Van [ code=AA22BB, descr=Chevrolet Chevy, 2020, points=180.0]
+	Motorcycle [ code=ZA33ZB, descr=Touring, 750, 2022, points=85.0]
+	Car [ code=BB44ZB, descr=Ford Mustang, Red, 2021, points=150.0]
+--- Shared Products ---
+Total: 4
+	Car [ code=ZA11ZB, descr=Tesla, Grey, 2021, points=100.0]
+	Motorcycle [ code=ZA33ZB, descr=Touring, 750, 2022, points=85.0]
+	Car [ code=BB44ZB, descr=Ford Mustang, Red, 2021, points=150.0]
+
+--- Shared Products ---
+Total: 4
+	Car [ code=ZA11ZB, descr=Tesla, Grey, 2021, points=100.0]
+	Motorcycle [ code=ZA33ZB, descr=Touring, 750, 2022, points=85.0]
+	Car [ code=BB44ZB, descr=Ford Mustang, Red, 2021, points=150.0]
+
